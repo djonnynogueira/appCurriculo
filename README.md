@@ -1,23 +1,18 @@
 💻 - **Projeto app Currículo**
 
 ##### Projeto app Currículo como parte do aprendizado do bootcamp Eduzz Fullstack Developer #2.
-##### Criando aplicações móveis multiplataforma com React Native - Instrutor: Pablo Henrique - @pablohdev 
-<br>
-
+##### Criando aplicações móveis multiplataforma com React Native - Instrutor: Pablo Henrique - @pablohdev <br>
 #### Conceitos iniciais:
 - Introdução ao React Native
 - Caractarístivas do React Native
 - Desenvolvendo o primeiro aplicativo
 - Estilos e componentes
 - Componentes e estados
-
 ##### Tecnologias:
 <div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React Native" height="42" width="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</div>
-
-<hr><br>
+</div><hr><br>
 
 #### Bootcamp Eduzz Fullstack Developer #2
 <img width="60" height="60" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
